@@ -1,0 +1,34 @@
+@font-face{
+    font-family: "caviar-drams";
+    src:url("./Fonts/caviar-dreams.ttf");
+}
+
+body {
+    background-color: rgb(226, 222, 245);
+}
+h1 {
+    color: #fd6969;
+    font-family: "teddybear", sans-serif;
+}
+
+h2{
+color: rgb(193, 140, 242);
+}
+
+a{
+    color: #e95a5a;
+}
+
+a:hover{
+    font-size: 1rem;
+}
+
+.address{
+    font-size: 1rem;
+}
+
+img{
+    width: 300px;
+}
+
+
